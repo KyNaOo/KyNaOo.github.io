@@ -11,7 +11,7 @@
             />
           </div>
           <div>
-            <h1 class="text-3xl font-bold mb-2">Qindi Wu</h1>
+            <h1 class="text-3xl font-bold mb-2">Qin-Hao Wu</h1>
             <p class="text-gray-500 mb-4">DevOps</p>
             <p class="text-gray-700 mb-8">
               Hi there! My name is Qin-Hao Wu and I'm a software engineer with a
