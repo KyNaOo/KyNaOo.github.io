@@ -17,15 +17,12 @@ const toggleMenu = () => {
 </script>
 
 <template>
-  <header class="bg-[#CDBFBF] shadow-sm sticky top-0 z-50">
+  <header class="bg-[#e7eaf6] shadow-sm sticky top-0 z-50">
     <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex justify-between h-20">
         <div class="flex-shrink-0 flex items-center">
           <RouterLink to="/" class="text-xl font-bold text-gray-800">
-            <img
-              src="../logo-removebg-preview.png"
-              class="h-20 w-auto object-contain"
-            />
+            { Qin-Hao }
           </RouterLink>
         </div>
 

@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-neutral-500 py-8">
+  <div class="bg-[#a2a8d3] py-8">
     <FadeWrapper>
       <div class="max-w-4xl mx-auto space-y-8">
         <div class="bg-white rounded-lg shadow-md p-6 flex items-center">

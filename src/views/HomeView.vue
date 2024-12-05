@@ -8,7 +8,7 @@ export default {
 </script>
 <template>
   <div
-    class="flex-grow bg-gradient-to-r from-neutral-800 to-neutral-500 flex items-center justify-center text-white"
+    class="flex-grow bg-gradient-to-r from-[#38598b] to-[#a2a8d3] flex items-center justify-center text-white"
   >
     <FadeWrapper>
       <div class="max-w-3xl text-center px-4 sm:px-6 lg:px-8">
