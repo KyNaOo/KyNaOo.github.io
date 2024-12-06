@@ -9,6 +9,7 @@ const navItems = [
   { path: "/about", label: "About me" },
   { path: "/certifications", label: "Certifications" },
   { path: "/contact", label: "Contact me" },
+  { path: "/network", label: "Network" },
 ];
 
 const toggleMenu = () => {

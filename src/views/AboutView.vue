@@ -81,13 +81,13 @@
             />
           </div>
           <div>
-            <h3 class="text-xl font-bold mb-2">Intern</h3>
-            <p class="text-gray-500 mb-2">Capgemini (XXXX - XXXX)</p>
+            <h3 class="text-xl font-bold mb-2">Student</h3>
+            <p class="text-gray-500 mb-2">ORT (2021 - 2023)</p>
             <p class="text-gray-700">
-              <img
-                src="https://github-readme-streak-stats.herokuapp.com/?user=kynaoo&theme=tokyonight"
-                alt="mystreak"
-              />
+              ORT was my first interaction with web development and where i have
+              a learnt the basics such as the tools Github, Vscode, and how to
+              use Linux OS, the stacks used in those years were Java,
+              Javascript, PHP, Python, MySQL, Docker and Symfony
             </p>
           </div>
         </div>
