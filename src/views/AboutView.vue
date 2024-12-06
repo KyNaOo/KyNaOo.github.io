@@ -40,7 +40,7 @@
         <div class="bg-white rounded-lg shadow-md p-6 flex items-center">
           <div class="flex-shrink-0 mr-6">
             <img
-              src="/kering.png"
+              src="/logo-removebg-preview.png"
               alt="Company Logo"
               class="w-32 h-32 rounded-full object-contain"
             />
@@ -58,25 +58,24 @@
         <div class="bg-white rounded-lg shadow-md p-6 flex items-center">
           <div class="flex-shrink-0 mr-6">
             <img
-              src="/hermes.png"
+              src="/julie.png"
               alt="Company Logo"
               class="w-32 h-32 rounded-full object-contain"
             />
           </div>
           <div>
-            <h3 class="text-xl font-bold mb-2">Intern</h3>
-            <p class="text-gray-500 mb-2">Hermès (XXXX - XXXX)</p>
+            <h3 class="text-xl font-bold mb-2">Web Developer</h3>
+            <p class="text-gray-500 mb-2">Julie Arnaubec (2022 - 2023)</p>
             <p class="text-gray-700">
-              During my internship at Globex Corporation, I gained valuable
-              experience in front-end development, working with frameworks like
-              Vue.js and React.
+              Create an showcase website for an freelance osteopath, Stack used
+              : WordPress and Oxygen builder
             </p>
           </div>
         </div>
         <div class="bg-white rounded-lg shadow-md p-6 flex items-center">
           <div class="flex-shrink-0 mr-6">
             <img
-              src="/capgemini.png"
+              src="/ort.png"
               alt="Company Logo"
               class="w-32 h-32 rounded-full object-contain"
             />
@@ -85,9 +84,10 @@
             <h3 class="text-xl font-bold mb-2">Intern</h3>
             <p class="text-gray-500 mb-2">Capgemini (XXXX - XXXX)</p>
             <p class="text-gray-700">
-              During my internship at Globex Corporation, I gained valuable
-              experience in front-end development, working with frameworks like
-              Vue.js and React.
+              <img
+                src="https://github-readme-streak-stats.herokuapp.com/?user=kynaoo&theme=tokyonight"
+                alt="mystreak"
+              />
             </p>
           </div>
         </div>
