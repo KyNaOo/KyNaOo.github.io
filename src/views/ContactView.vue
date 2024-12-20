@@ -14,7 +14,7 @@ export default {
 };
 </script>
 <template>
-  <div class="bg-gradient-to-r from-[#a2a8d3] to-[#38598b] py-16">
+  <div class="bg-gradient-to-r from-[#083D77] to-[#2E4057] py-16">
     <FadeWrapper>
       <div class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="space-y-8">

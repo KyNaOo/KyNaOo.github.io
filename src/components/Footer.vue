@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-[#e7eaf6] py-6 font-medium font-lexend-exa">
+  <footer class="bg-[#F6D8AE] py-6 font-medium font-lexend-exa">
     <div class="container mx-auto text-center">
       <p>&copy; 2024 Qin-hao's Portfolio. All rights reserved.</p>
     </div>

@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#a2a8d3] flex flex-col items-center justify-center">
+  <div class="bg-[#083D77] flex flex-col items-center justify-center">
     <FadeWrapper>
       <div
         class="bg-white rounded-lg shadow-md p-6 mb-8 w-full max-w-lg"
