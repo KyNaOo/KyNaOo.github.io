@@ -33,11 +33,18 @@
               Some Projects I have worked on
             </h2>
             <div class="flex justify-center">
-              <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite&theme=dracula"
-                alt="GitHub Repo Card"
-                class="max-w-full"
-              />
+              <a
+                href="https://github.com/KyNaOo/Trello_mobile_app"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="transform transition-transform duration-300 hover:scale-105 w-full"
+              >
+                <img
+                  src="https://github-readme-stats.vercel.app/api/pin/?username=kynaoo&repo=Trello_mobile_app&theme=dracula"
+                  alt="GitHub Repo Card"
+                  class="max-w-full"
+                />
+              </a>
             </div>
             <div class="flex justify-center">
               <img
