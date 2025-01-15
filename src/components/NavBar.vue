@@ -7,7 +7,7 @@ const isOpen = ref(false);
 const navItems = [
   { path: "/", label: "Home" },
   { path: "/about", label: "About me" },
-  { path: "/certifications", label: "Certifications" },
+  //{ path: "/certifications", label: "Certifications" },
   { path: "/network", label: "Projects" },
   { path: "/contact", label: "Contact me" },
 ];
