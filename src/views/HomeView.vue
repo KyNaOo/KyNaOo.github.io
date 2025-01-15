@@ -22,7 +22,7 @@ export default {
           class="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-6"
         >
           <a
-            href="/contact"
+            href="/#/contact"
             class="bg-white hover:bg-gray-300 text-black font-medium py-3 px-6 rounded-md transition-colors"
           >
             Contact me
